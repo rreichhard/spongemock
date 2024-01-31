@@ -4,6 +4,8 @@
 This was a small project that came up organically at work. In a groupchat with co-workers we would often manually type text in "spongemock" as a reference to the [meme.](https://knowyourmeme.com/memes/mocking-spongebob)
 
 
+
+
 ## Data Sources
 
 Data was obtained from multiple locations. First was the Flight Safety Foundation at aviation-safety.net. Additional data was acquired from the National Highway Traffic Safety Administration at https://www-fars.nhtsa.dot.gov/Trends/TrendsGeneral.aspx.
