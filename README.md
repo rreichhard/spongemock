@@ -1,7 +1,7 @@
 
-# Airline Travel Exploration
+# Spongemock String Converter
 
-This project was part of a data visualization course taken at Bellevue University. There are several parts to this exploration of visual media around the chosen topic of airtravel safety.
+This was a small project that came up organically at work.  was part of a data visualization course taken at Bellevue University. There are several parts to this exploration of visual media around the chosen topic of airtravel safety.
 ## Data Sources
 
 Data was obtained from multiple locations. First was the Flight Safety Foundation at aviation-safety.net. Additional data was acquired from the National Highway Traffic Safety Administration at https://www-fars.nhtsa.dot.gov/Trends/TrendsGeneral.aspx.
