@@ -15,5 +15,7 @@ What makes this Spongemock script different is that it will create a .txt file f
 
 The starting point for this came from [GeeksforGeeks](https://www.geeksforgeeks.org/spongebob-mocking-text-generator-python)
 
+Image & meme description from [Know Your Meme](https://knowyourmeme.com/memes/mocking-spongebob)
+
 
 
